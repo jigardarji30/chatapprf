@@ -1,0 +1,29 @@
+.registerContainer{
+    width: 400px;
+    position: relative;
+    margin: 50px auto;
+}
+
+
+.main-content-div{
+	width: 570px;
+	margin-left: -105px;
+}
+
+.rowDiv{
+	flex-direction: column-reverse;
+	margin-top: 11px;
+}
+
+.form-group-div{
+	flex-direction: column-reverse; 
+}
+
+.loginDivRow{
+	margin-left: 31px;
+}
+
+.hRowDiv{
+    flex-direction: "column-reverse"; 
+    margin-top: "11px";
+}
